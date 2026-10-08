@@ -1,5 +1,8 @@
 # The Talos Principle NX Cheat To Skip Sigil Puzzles With One Button
 
+<details>
+<summary><b>English</b></summary>
+
 An Atmosphere cheat code for Nintendo Switch that solves Sigil (Tetromino) puzzles in *The Talos Principle* by pressing D-Pad Down.
 
 ## Requirements
@@ -21,9 +24,13 @@ An Atmosphere cheat code for Nintendo Switch that solves Sigil (Tetromino) puzzl
 - Uses the game's built-in debug function. The game does not detect it and will not mark the save file as cheated.
 - Does not auto-solve puzzles. Triggers strictly on D-Pad Down press.
 
----
+## License
+Do whatever you want with this code.
 
-# 🇷🇺 Русская версия
+</details>
+
+<details>
+<summary><b>Русский</b></summary>
 
 Чит-код для Atmosphere (Nintendo Switch), который решает паззлы с сигилами (тетрамино) в *The Talos Principle* нажатием кнопки D-Pad Down.
 
@@ -45,3 +52,8 @@ An Atmosphere cheat code for Nintendo Switch that solves Sigil (Tetromino) puzzl
 ## Примечания
 - Использует встроенную отладочную функцию игры. Игра его не замечает и не помечает сохранение как читерское.
 - Не решает паззлы автоматически. Срабатывает строго по нажатию кнопки D-Pad Down.
+
+## Лицензия
+Делай с этим кодом что хочешь.
+
+</details>

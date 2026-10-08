@@ -7,7 +7,7 @@ An Atmosphere cheat code for Nintendo Switch that solves Sigil (Tetromino) puzzl
 
 ## Description
 - The cheat does not implement an independent puzzle solver, but uses the game's **built-in debug functionality**.
-- Does not auto-solve puzzles. Triggers strictly on D-Pad Down press.
+- It doesn't solve every puzzle automatically right away, but only when you press the D-Pad Down button.
 - **You must have already collected the required sigils for the puzzle.** This cheat only automates the solving process; it does not spawn missing sigils.
 
 ## Requirements
@@ -66,7 +66,7 @@ In other words, this is essentially a **one-button interface to a developer func
 
 ## Описание
 - Для решения паззла активируется  встроенная отладочная функция игры.
-- Не решает паззлы автоматически. Срабатывает строго по нажатию кнопки D-Pad Down.
+- Не решает каждый паззл сразу автоматически, а только по нажатию кнопки D-Pad Down.
 - **Необходимо сначала собрать нужные для паззла сигилы.** Чит только автоматизирует процесс решения, но не создает недостающие сигилы.
 
 ## Требования

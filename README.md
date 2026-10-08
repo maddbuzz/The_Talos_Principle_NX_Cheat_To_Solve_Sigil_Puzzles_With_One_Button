@@ -25,17 +25,16 @@ An Atmosphere cheat code for Nintendo Switch that solves Sigil (Tetromino) puzzl
 2. Open Tesla Menu / EdiZon and enable **"D-Pad Down solves Tetromino"**.
 3. Enter a Sigil puzzle and press **D-Pad Down**.
 
-## Important: no developer-cheat side effects
+## Important: no developer-cheats negative side effects
 
 This cheat uses the **same built-in instant-solve function** that is
 normally exposed through the game's developer cheats, but it does
 **not enable the developer cheat system itself**.
 
-This distinction is important. When the official developer cheats
+This distinction is important: when the official developer cheats
 are enabled, the game marks the save as having **cheats used**.
 It also permanently displays the **"Cheats Available"** notification
-in the game. This notification cannot be removed while the save
-is marked as using developer cheats.
+in the game.
 
 This Atmosphere cheat does **not** enable developer cheats and does
 not set the game's cheat-used flag, but only calls the underlying
@@ -62,7 +61,7 @@ In other words, this is essentially a **one-button interface to a developer func
 <details>
 <summary><b>Русский</b></summary>
 
-Чит-код для Atmosphere (Nintendo Switch), который решает паззлы с сигилами (тетрамино) в *The Talos Principle* нажатием кнопки D-Pad Down.
+Чит-код для Atmosphere (Nintendo Switch), который решает паззлы с сигилами (тетрамино) в *The Talos Principle* нажатием кнопки D-Pad Down (вниз на крестовине).
 
 ## Описание
 - Для решения паззла активируется  встроенная отладочная функция игры.
@@ -84,7 +83,7 @@ In other words, this is essentially a **one-button interface to a developer func
 2. Открой Tesla Menu / EdiZon и включи чит **"D-Pad Down solves Tetromino"**.
 3. Зайди в паззл с сигилами и нажми **D-Pad Down** (вниз на крестовине).
 
-## Важно: нет побочных эффектов включения "читов разработчика"
+## Важно: нет негативных побочных эффектов от включения "читов разработчика"
 
 Этот чит использует **ту же встроенную функцию мгновенного решения**,
 которая обычно доступна через developer cheats игры, но при этом
@@ -94,9 +93,9 @@ In other words, this is essentially a **one-button interface to a developer func
 помечает сохранение как **использовавшее читы**. После загрузки такого
 сохранения, постоянно отображается неотключаемая надпись **«Доступны читы»**.
 
-Данный чит просто напрямую вызывает встроенную функцию для мгновенного
-решения паззла, **не включая developer cheats**, поэтому не имеет
-описанных выше побочных эффектов.
+А данный чит просто напрямую вызывает встроенную функцию для мгновенного
+решения паззла, **не включая developer cheats**, поэтому **не имеет
+описанных выше негативных побочных эффектов**.
 
 ---
 

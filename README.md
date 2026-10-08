@@ -1,4 +1,4 @@
-# The Talos Principle NX Cheat To Skip Sigil Puzzles With One Button
+# The Talos Principle NX Cheat To Solve Sigil Puzzles With One Button
 
 <details>
 <summary><b>English</b></summary>
